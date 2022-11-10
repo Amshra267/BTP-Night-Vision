@@ -14,3 +14,48 @@ Till Semester-VI we had completed part-1 to a good level
 In the VII semester we are focussing on Second Category of Face detection and Recognition of those person in night scenarios. 
 
 Follow this repo for final updates:-
+
+## **Team**
+
+<table>
+    <td align="center">
+      <a href="https://github.com/Amshra267">
+         <img src="https://avatars1.githubusercontent.com/u/60649720?s=460&u=9ea334300de5e3e7586af294904f4f76c24f5424&v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Aman Mishra - 19095012</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/vaibhavgoyal-droid">
+         <img src="https://avatars.githubusercontent.com/u/60650144?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Vaibhav Goyal - 19095102</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/dharmendrakumar30">
+         <img src="https://avatars.githubusercontent.com/u/60649726?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Dharmendra Kumar - 19095034</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/sandesh31122000">
+         <img src="https://avatars.githubusercontent.com/u/85968752?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Sandesh - 19095085</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+</table>
